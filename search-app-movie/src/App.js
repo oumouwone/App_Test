@@ -5,10 +5,13 @@ import SearchBar from './components/SearchBar';
 
 function App() {
   return (
-    <div className="App">
+    <div>
     <SearchBar></SearchBar>
+    <div className="App">
     <Movies></Movies>
     <MovieDetails></MovieDetails>
+    </div>
+    
     </div>
   );
 }

@@ -11,6 +11,67 @@ function Movies() {
                 <a type="button" className="btn btn-outline-success badge" href="#">Voir plus</a>
                 </div>
                </li>
+               <li className="list-group-item">
+                Film 1 
+                <div> 
+                <a type="button" className="btn btn-outline-success badge" href="#">Voir plus</a>
+                </div>
+               </li><li className="list-group-item">
+               Film 1 
+               <div> 
+               <a type="button" className="btn btn-outline-success badge" href="#">Voir plus</a>
+               </div>
+              </li><li className="list-group-item">
+              Film 1 
+              <div> 
+              <a type="button" className="btn btn-outline-success badge" href="#">Voir plus</a>
+              </div>
+             </li><li className="list-group-item">
+             Film 1 
+             <div> 
+             <a type="button" className="btn btn-outline-success badge" href="#">Voir plus</a>
+             </div>
+            </li><li className="list-group-item">
+            Film 1 
+            <div> 
+            <a type="button" className="btn btn-outline-success badge" href="#">Voir plus</a>
+            </div>
+           </li><li className="list-group-item">
+           Film 1 
+           <div> 
+           <a type="button" className="btn btn-outline-success badge" href="#">Voir plus</a>
+           </div>
+          </li><li className="list-group-item">
+          Film 1 
+          <div> 
+          <a type="button" className="btn btn-outline-success badge" href="#">Voir plus</a>
+          </div>
+         </li><li className="list-group-item">
+         Film 1 
+         <div> 
+         <a type="button" className="btn btn-outline-success badge" href="#">Voir plus</a>
+         </div>
+        </li><li className="list-group-item">
+        Film 1 
+        <div> 
+        <a type="button" className="btn btn-outline-success badge" href="#">Voir plus</a>
+        </div>
+       </li><li className="list-group-item">
+       Film 1 
+       <div> 
+       <a type="button" className="btn btn-outline-success badge" href="#">Voir plus</a>
+       </div>
+      </li><li className="list-group-item">
+      Film 1 
+      <div> 
+      <a type="button" className="btn btn-outline-success badge" href="#">Voir plus</a>
+      </div>
+     </li><li className="list-group-item">
+     Film 1 
+     <div> 
+     <a type="button" className="btn btn-outline-success badge" href="#">Voir plus</a>
+     </div>
+    </li>
                 
             </ul>
         </div>

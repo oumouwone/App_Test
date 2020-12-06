@@ -4,45 +4,41 @@ import React from 'react'
 function MovieDetails() {
     return (
         <div className="movieDetails">
-        <div classNameName="jumbotron">
-        <img src="..." alt="..." class="img-thumbnail" width="200px" height="200"></img>
-        <h1>Titre</h1>
-        <p>Note *****</p>
-
-        <div>
-            <table className="table">
-            <thead>
-                <tr>
-                    <th scope="col">#</th>
-                    <th scope="col">First</th>
-                    <th scope="col">Last</th>
-                    <th scope="col">Handle</th>
-                 </tr>
-            </thead>
-            <tbody>
-                    <tr>
-                    <th scope="row">1</th>
-                    <td>Mark</td>
-                    <td>Otto</td>
-                    <td>@mdo</td>
-                    </tr>
-                    <tr>
-                    <th scope="row">2</th>
-                    <td>Jacob</td>
-                    <td>Thornton</td>
-                    <td>@fat</td>
-                    </tr>
-                    <tr>
-                    <th scope="row">3</th>
-                    <td>Larry</td>
-                    <td>the Bird</td>
-                    <td>@twitter</td>
-                    </tr>
-            </tbody>
-            </table>
+        
+        <div className="container">
+        <div className="row">
+          <div className="col-md-4 card card-body">
+            <img src="" className="thumbnail" alt="Poster" />
+          </div>
+          <div className="col-md-8">
+            <h2 className="mb-4"></h2>
+            <ul className="list-group">
+              <li className="list-group-item">
+                <strong>Genre:</strong> 
+              </li>
+              <li className="list-group-item">
+                <strong>Released:</strong> 
+              </li>
+              <li className="list-group-item">
+                <strong>Rated:</strong> 
+              </li>
+              <li className="list-group-item">
+                <strong>TMDB Rating:</strong> 
+              </li>
+              <li className="list-group-item">
+                <strong>Director:</strong> 
+              </li>
+              <li className="list-group-item">
+                <strong>Writer:</strong> 
+              </li>
+              <li className="list-group-item">
+                <strong>Actors:</strong> 
+              </li>
+            </ul>
+          </div>
         </div>
+      </div>
 
-        </div>
         </div>
         
        
